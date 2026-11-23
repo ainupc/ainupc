@@ -1,6 +1,6 @@
 # AiNu PC
 
-On-premises AI engineering for SMEs and startups. We bring forward-deployed engineers + AMD Strix Halo hardware to your office — no cloud SaaS, no data leaving your perimeter.
+On-premises AI engineering for startups and SMEs. We bring forward-deployed engineers + AMD Strix Halo hardware to your office — no cloud SaaS, no data leaving your perimeter.
 
 ## What we do
 
